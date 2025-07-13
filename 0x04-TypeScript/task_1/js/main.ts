@@ -38,9 +38,8 @@ const printTeacher: printTeacherFunction = (firstName, lastName) =>
 
 console.log(printTeacher("John", "Doe")); // Output: J. Doe
 
-interface StudentConstructor {
-  firstName: string;
-  lastName: string;
+export interface StudentConstructor {
+  new(firstName: string, lastName: string): StudentClassInterface;
 }
 
 interface StudentClassInterface {
