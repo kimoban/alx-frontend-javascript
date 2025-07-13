@@ -3,7 +3,6 @@ namespace Subjects {
     firstName: string;
     lastName: string;
     experienceTeachingC?: number;
-    }
   }
 
   export class Subject {
