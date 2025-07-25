@@ -282,7 +282,7 @@ This project is part of the ALX Software Engineering Program curriculum.
 ### Isaiah Kimoban
 
 - GitHub: [@kimoban](https://github.com/kimoban)
-- Email: <your.email@example.com>
+- Email:
 
 ## 🔗 Related Projects
 
